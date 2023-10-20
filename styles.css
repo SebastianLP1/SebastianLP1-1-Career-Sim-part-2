@@ -60,3 +60,9 @@ h2{
 form{
     transform: translateX(50px);
 }
+
+textarea{
+    transform: translatey(10px);
+    
+}
+
